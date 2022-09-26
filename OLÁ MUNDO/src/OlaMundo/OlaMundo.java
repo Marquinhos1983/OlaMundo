@@ -6,6 +6,7 @@ public class OlaMundo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("OLÁ MUNDO ");
+		System.out.println("Nova Mensagem ");
 	}
 
 }
